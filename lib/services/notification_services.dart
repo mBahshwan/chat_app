@@ -9,7 +9,7 @@ import 'package:http/http.dart' as http;
 import 'package:whatsapp_clone/screens/chat_screen.dart';
 
 class NotificationServices {
-  static const key = "API_KEY_HERE";
+  static const key = "API_KEY_HERE ";
   final flutterLocalNotificationPlugin = FlutterLocalNotificationsPlugin();
   void _initLocalNotification() {
     const andriodSettings = AndroidInitializationSettings("chat_icon");
