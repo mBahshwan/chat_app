@@ -1,16 +1,13 @@
-# whatsapp_clone
+# chat app
 
-A new Flutter project.
+A Flutter project 
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+- users can chat together
+- can make voice, vidoe calls
+- sending notification when the receiver out of the app
 
-A few resources to get you started if this is your first Flutter project:
+  ## vidoe
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<video src="https://github.com/mBahshwan/movie_app/assets/101920300/b024a461-b554-4698-b6b2-b346a9e80aa1" autoplay muted height="400" width="250">
